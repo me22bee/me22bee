@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an static analysis tool for vulnerability detection in softwares.
-- 🌱 I’m currently learning penetration testing.
+- 🌱 I’m currently learning web penetration testing.
 
 ## ⚡ Open Source Contribution Github/Gitlab?
 - `FFmpeg` (https://github.com/FFmpeg/FFmpeg/commit/7150f9575671f898382c370acae35f9087a30ba1)
@@ -13,7 +13,7 @@
 - `CVE-2021-38115` - Libgd (https://nvd.nist.gov/vuln/detail/CVE-2021-38115)
 - `CVE-2021-38171` - FFmpeg (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-38171)
 
-## 😄 How to reach me
+## 📫 How to reach me
 - maryam.ebr@student.sharif.edu
 
 Thank you for reading this.
