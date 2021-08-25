@@ -4,9 +4,10 @@
 - 🌱 I’m currently learning web penetration testing.
 
 ## ⚡ Open Source Contribution Github/Gitlab?
-- `FFmpeg` (https://github.com/FFmpeg/FFmpeg/commit/7150f9575671f898382c370acae35f9087a30ba1)
-- `FFmpeg` (https://github.com/FFmpeg/FFmpeg/commit/9ffa49496d1aae4cbbb387aac28a9e061a6ab0a6)
-- `Libgd` (https://github.com/libgd/libgd/pull/711/commits/8b111b2b4a4842179be66db68d84dda91a246032)
+- `FFmpeg` (https://github.com/FFmpeg/FFmpeg/commit/7150f9575671f898382c370acae35f9087a30ba1)(patch)
+- `FFmpeg` (https://github.com/FFmpeg/FFmpeg/commit/9ffa49496d1aae4cbbb387aac28a9e061a6ab0a6)(patch)
+- `Libgd` (https://github.com/libgd/libgd/pull/711/commits/8b111b2b4a4842179be66db68d84dda91a246032)(patch)
+- `Libgd` (https://github.com/libgd/libgd/commit/c5fd25ce0e48fd5618a972ca9f5e28d6d62006af)(patch)
 
 ## ⚡ CVE
 - `CVE-2021-38114` - FFmpeg (https://nvd.nist.gov/vuln/detail/CVE-2021-38114)
