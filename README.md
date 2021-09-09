@@ -11,8 +11,9 @@
 - `Libgd` (https://github.com/libgd/libgd/commit/c5fd25ce0e48fd5618a972ca9f5e28d6d62006af)(patch)
 
 ## ⚡ CVE
-- `CVE-2021-38114` - FFmpeg (https://nvd.nist.gov/vuln/detail/CVE-2021-38114)
 - `CVE-2021-38115` - Libgd (https://nvd.nist.gov/vuln/detail/CVE-2021-38115)
+- `CVE-2021-40812` - Libgd (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-40812)
+- `CVE-2021-38114` - FFmpeg (https://nvd.nist.gov/vuln/detail/CVE-2021-38114)
 - `CVE-2021-38171` - FFmpeg (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-38171)
 
 ## 📫 How to reach me
