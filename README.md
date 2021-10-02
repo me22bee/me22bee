@@ -14,10 +14,10 @@
 - `CVE-2021-40812` - Libgd (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-40812)
 - `CVE-2021-38114` - FFmpeg (https://nvd.nist.gov/vuln/detail/CVE-2021-38114)
 - `CVE-2021-38171` - FFmpeg (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-38171)
-
+<!-- 
 ## 📫 How to reach me
 ![reachme](reachme.png)
-
+ -->
 
 
 
