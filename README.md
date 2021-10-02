@@ -16,7 +16,7 @@
 - `CVE-2021-38171` - FFmpeg (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-38171)
 
 ## 📫 How to reach me
-- maryam.ebr@student.sharif.edu
+- m_y_n_a_m_e dot ebr atsign student dot sharif dot edu
 
 
 
