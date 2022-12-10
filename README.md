@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meweez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on an static analysis tool for vulnerability detection in softwares.
-- 🌱 I’m currently learning web penetration testing.
+- 🔭 I was working on an static analysis tool for vulnerability detection in softwares as my thesis.
+- 🌱 I’m currently learning and working on kubernetes security and web penetration testing.
 
 ## ⚡ Open Source Contribution Github/Gitlab?
 - `FFmpeg` (https://github.com/FFmpeg/FFmpeg/commit/7150f9575671f898382c370acae35f9087a30ba1)(patch)
